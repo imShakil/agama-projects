@@ -1,1 +1,18 @@
-{}
+{
+    "agama-hello": {
+        "projectName": "agama-hello",
+        "description": "hello.coop social login",
+        "type": "community",
+        "author": "imShakil",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/imShakil/agama-projects",
+        "githubUri": "https://github.com/imShakil/agama-projects",
+        "license": "apache-2.0",
+        "lastUpdated": "1710803380703",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
