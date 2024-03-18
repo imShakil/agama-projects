@@ -2,7 +2,7 @@
 	"nodes": [
 		{
 			"width": 170,
-			"height": 122,
+			"height": 123,
 			"id": "finish-0acbc9fa-c476-417d-832c-ec70f7da9deb",
 			"position": {
 				"x": 2429.934596373051,
@@ -44,7 +44,7 @@
 		},
 		{
 			"width": 170,
-			"height": 122,
+			"height": 123,
 			"id": "Agama-log-Node-81407ae7-6d42-42b8-aff0-2289cede2102",
 			"position": {
 				"x": 2229.934596373051,
@@ -87,7 +87,7 @@
 		},
 		{
 			"width": 170,
-			"height": 122,
+			"height": 123,
 			"id": "Agama-call-Node-d97b1c5b-4181-4a4a-bc5d-2002d7fd468c",
 			"position": {
 				"x": 2028.3215436615367,
@@ -129,7 +129,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 2028.3215436615367,
@@ -138,7 +138,7 @@
 		},
 		{
 			"width": 170,
-			"height": 122,
+			"height": 123,
 			"id": "Agama-assignment-Node-b16173bd-b777-44fd-b9f0-617167e2e664",
 			"position": {
 				"x": 1831.0233800086305,
@@ -186,7 +186,7 @@
 		},
 		{
 			"width": 170,
-			"height": 122,
+			"height": 123,
 			"id": "Agama-log-Node-812a3cd3-9b6e-41cf-8968-221f91acd00d",
 			"position": {
 				"x": 1626.7084909500225,
@@ -229,7 +229,7 @@
 		},
 		{
 			"width": 170,
-			"height": 122,
+			"height": 123,
 			"id": "finish-7de398f4-9366-483a-ba29-cebb01a59eaa",
 			"position": {
 				"x": 1999.3612665951173,
@@ -272,7 +272,7 @@
 		},
 		{
 			"width": 170,
-			"height": 122,
+			"height": 123,
 			"id": "Agama-assignment-Node-4de9c053-2e44-4c4f-bacb-51651d8c55a6",
 			"position": {
 				"x": 1321.2897309153677,
@@ -325,7 +325,7 @@
 		},
 		{
 			"width": 170,
-			"height": 122,
+			"height": 123,
 			"id": "Agama-log-Node-fe329361-ea77-46c5-b743-4560c9592ac2",
 			"position": {
 				"x": 1091.2261054230287,
@@ -368,7 +368,7 @@
 		},
 		{
 			"width": 170,
-			"height": 122,
+			"height": 123,
 			"id": "Agama-assignment-Node-1573fc39-a38b-4b96-830d-3e3e90ca5272",
 			"position": {
 				"x": 430,
@@ -416,7 +416,7 @@
 		},
 		{
 			"width": 170,
-			"height": 122,
+			"height": 123,
 			"id": "Agama-log-Node-2596e321-9ae1-47d8-b36e-cc46af15d107",
 			"position": {
 				"x": 230,
@@ -444,13 +444,13 @@
 					"whenCondition": "WhenFalse",
 					"inRepeatBlock": false,
 					"inIterateBlock": false,
-					"logMessage": "\"[org.gluu.hello.coop] flow initiated successfully\"",
+					"logMessage": "\"[org.gluu.hello.coop] flow initiated successfully \" config",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
 				},
 				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 230,
@@ -459,7 +459,7 @@
 		},
 		{
 			"width": 170,
-			"height": 122,
+			"height": 123,
 			"id": "Agama-start-Flow-0e0652f5-288c-4f5f-ba94-0d7d9ee6a6b6",
 			"type": "start",
 			"sourcePosition": "right",
@@ -501,10 +501,10 @@
 		},
 		{
 			"width": 170,
-			"height": 122,
+			"height": 123,
 			"id": "Agama-log-Node-1c7cdf5b-3f37-4405-b681-8bdaf9b767bb",
 			"position": {
-				"x": 630,
+				"x": 631.0548723401739,
 				"y": 30
 			},
 			"type": "log",
@@ -516,7 +516,7 @@
 				"inRepeatBlock": false,
 				"inIterateBlock": false,
 				"position": {
-					"x": 630,
+					"x": 631.0548723401739,
 					"y": 30
 				},
 				"agamaData": {
@@ -536,7 +536,7 @@
 				"skake": false
 			},
 			"positionAbsolute": {
-				"x": 630,
+				"x": 631.0548723401739,
 				"y": 30
 			},
 			"selected": false,
@@ -544,7 +544,7 @@
 		},
 		{
 			"width": 170,
-			"height": 122,
+			"height": 123,
 			"id": "Agama-trigger-Node-28e8015d-0556-4eac-90c3-b1c4314ab95e",
 			"position": {
 				"x": 859,
@@ -594,7 +594,7 @@
 			"inIterateBlock": ""
 		},
 		{
-			"width": 209,
+			"width": 210,
 			"height": 140,
 			"id": "Agama-when-Node-a217f5b0-6ac3-4bdf-9cd6-7c100485c0ee",
 			"position": {
@@ -645,7 +645,7 @@
 		},
 		{
 			"width": 170,
-			"height": 122,
+			"height": 123,
 			"id": "Agama-log-Node-2fd42bbe-6f48-4005-940f-d884a525c94e",
 			"position": {
 				"x": 1765.3215436615371,
@@ -1005,8 +1005,8 @@
 		}
 	],
 	"viewport": {
-		"x": -1281,
-		"y": 139,
-		"zoom": 1
+		"x": 50.11062339901855,
+		"y": 167.69840700550247,
+		"zoom": 0.9479820087377452
 	}
 }
