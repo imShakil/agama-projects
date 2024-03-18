@@ -11,10 +11,10 @@ success = authResult.success
 When success is true
      Log "@info login successfull"
      data = profile.data
-     uid = Call io.gluu.org.UserOnboardHelper#exec data org.gluu.hello.coop.uidPrefix
+     uid = Call org.gluu.UserOnboardHelper#exec data org.gluu.hello.coop.uidPrefix
      Log "@info return uid"
-     it_krudp = undefined
-     Finish it_krudp
+     it_hoprv = undefined
+     Finish it_hoprv
 Log "@error login failed"
-it_ebwtq = {success:false, error: "Make sure you have already agama-openid installed "}
-Finish it_ebwtq
+it_dsdcp = {success:false, error: "Make sure you have already agama-openid installed "}
+Finish it_dsdcp
