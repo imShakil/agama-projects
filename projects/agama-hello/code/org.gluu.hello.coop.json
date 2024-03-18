@@ -450,7 +450,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 230,
@@ -479,7 +479,7 @@
 					"comment": "",
 					"isTopLevelFlow": true,
 					"basepath": "",
-					"configParams": "{\n  \"org.gluu.hello.coop\": {\n    \"hello\": {\n      \"clientId\": \"CLIENT_IDENTIFIER\",\n      \"clientSecret\": \"CLIENT_SECRET\",\n      \"authzEndpoint\": \"https://wallet.hello.coop/authorize\",\n      \"tokenEndpoint\": \"https://wallet.hello.coop/oauth/token\",\n      \"userInfoEndpoint\": \"https://wallet.hello.coop/oauth/userinfo\",\n      \"scopes\": [\n          \"openid\"\n      ],\n      \"clientCredsInRequestBody\": true,\n      \"custParamsAuthReq\": {},\n      \"custParamsTokenReq\": {},\n      \"redirectUri\": null\n      },\n    \"uidPrefix\": \"\"\n  }\n}",
+					"configParams": "{\n  \"org.gluu.hello.coop\": {\n    \"hello\": {\n      \"oauth\": {\n        \"clientId\": \"CLIENT_IDENTIFIER\",\n        \"clientSecret\": \"CLIENT_SECRET\",\n        \"authzEndpoint\": \"https://wallet.hello.coop/authorize\",\n        \"tokenEndpoint\": \"https://wallet.hello.coop/oauth/token\",\n        \"userInfoEndpoint\": \"https://wallet.hello.coop/oauth/userinfo\",\n        \"scopes\": [\n          \"openid\"\n        ],\n        \"clientCredsInRequestBody\": true,\n        \"custParamsAuthReq\": {},\n        \"custParamsTokenReq\": {},\n        \"redirectUri\": null\n      },\n      \"uidPrefix\": \"\"\n    }\n  }\n}",
 					"nodeIcon": "material-symbols:line-start-square",
 					"timeout": "",
 					"inputs": "",
@@ -492,7 +492,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
@@ -1005,8 +1005,8 @@
 		}
 	],
 	"viewport": {
-		"x": 50.11062339901855,
-		"y": 167.69840700550247,
-		"zoom": 0.9479820087377452
+		"x": -8,
+		"y": 117,
+		"zoom": 1
 	}
 }
