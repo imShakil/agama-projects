@@ -13,8 +13,8 @@ When success is true
      data = profile.data
      uid = Call org.gluu.UserOnboardHelper#exec data org.gluu.hello.coop.uidPrefix
      Log "@info return uid"
-     it_fjova = undefined
-     Finish it_fjova
+     it_gaday = undefined
+     Finish it_gaday
 Log "@error login failed"
-it_bskcc = {success:false, error: "Make sure you have already agama-openid installed "}
-Finish it_bskcc
+it_cefus = {success:false, error: "Make sure you have already agama-openid installed "}
+Finish it_cefus
