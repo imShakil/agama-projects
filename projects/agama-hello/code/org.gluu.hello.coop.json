@@ -32,7 +32,8 @@
 					"flowfilename": "",
 					"returnVariable": "{ userId: \"uid\" }",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 2429.934596373051,
@@ -74,9 +75,10 @@
 					"logMessage": "\"return uid\"",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 2229.934596373051,
@@ -110,7 +112,7 @@
 					"displayName": "",
 					"hasComment": true,
 					"comment": "",
-					"javaClassName": "io.gluu.org.UserOnboardHelper",
+					"javaClassName": "org.gluu.UserOnboardHelper",
 					"javaMethodName": "exec",
 					"javaVariableName": "",
 					"exceptionVariableField": "",
@@ -124,9 +126,10 @@
 					],
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "uid"
-				}
+				},
+				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 2028.3215436615367,
@@ -171,7 +174,8 @@
 						}
 					],
 					"nodeIcon": "material-symbols:equal"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -213,7 +217,8 @@
 					"logMessage": "\"login successfull\"",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 1626.7084909500225,
@@ -255,7 +260,8 @@
 					"returnVariable": "Make sure you have already agama-openid installed ",
 					"finishMode": "withFailure",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -307,7 +313,8 @@
 						}
 					],
 					"nodeIcon": "material-symbols:equal"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -349,7 +356,8 @@
 					"logMessage": "\"retrieving data from login flow \" authResult",
 					"logLevel": "debug",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 1091.2261054230287,
@@ -396,7 +404,8 @@
 						}
 					],
 					"nodeIcon": "material-symbols:equal"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -438,7 +447,8 @@
 					"logMessage": "\"[org.gluu.hello.coop] flow initiated successfully\"",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -522,7 +532,8 @@
 					"logMessage": "\"[org.gluu.hello.coop] configuration parsed successfully\" oauth",
 					"logLevel": "debug",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 630,
@@ -568,7 +579,8 @@
 					],
 					"asssignedVariableName": "authResult",
 					"exceptionVariableField": ""
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -621,7 +633,8 @@
 				"handles": [
 					"Agama-when-Node-a217f5b0-6ac3-4bdf-9cd6-7c100485c0ee.FAILURE",
 					"Agama-when-Node-a217f5b0-6ac3-4bdf-9cd6-7c100485c0ee.SUCCESS"
-				]
+				],
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -663,7 +676,8 @@
 					"logMessage": "\"login failed\"",
 					"logLevel": "error",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 1765.3215436615371,
@@ -991,8 +1005,8 @@
 		}
 	],
 	"viewport": {
-		"x": -702.4840857190645,
-		"y": 328.9308380263453,
-		"zoom": 0.6199425430190592
+		"x": -1281,
+		"y": 139,
+		"zoom": 1
 	}
 }
