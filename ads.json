@@ -13,6 +13,9 @@
             "openid-connect"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "org.gluu.hello.coop": {}
+        },
+        "name": "agama-hello"
     }
 }
