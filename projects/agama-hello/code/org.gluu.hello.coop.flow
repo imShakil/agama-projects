@@ -15,7 +15,7 @@ When success is true
      data = profile.data
      uid = Call org.gluu.UserOnboardHelper#exec data uidPrefix
      Log "@info return uid"
-     it_qrneg = undefined
-     Finish it_qrneg
+     it_nsdpy = undefined
+     Finish it_nsdpy
 Log "@error login failed"
 Finish hello.uidPrefix
