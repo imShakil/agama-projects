@@ -122,7 +122,7 @@
 					"inIterateBlock": false,
 					"arguments": [
 						"data",
-						"org.gluu.hello.coop.uidPrefix"
+						"uidPrefix"
 					],
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "uid"
@@ -275,8 +275,8 @@
 			"height": 123,
 			"id": "Agama-assignment-Node-4de9c053-2e44-4c4f-bacb-51651d8c55a6",
 			"position": {
-				"x": 1321.2897309153677,
-				"y": 25.644865457683863
+				"x": 1290.417581692082,
+				"y": 11.752398307205397
 			},
 			"type": "assignment",
 			"data": {
@@ -287,8 +287,8 @@
 				"inRepeatBlock": false,
 				"inIterateBlock": false,
 				"position": {
-					"x": 1321.2897309153677,
-					"y": 25.644865457683863
+					"x": 1290.417581692082,
+					"y": 11.752398307205397
 				},
 				"agamaData": {
 					"id": "Agama-assignment-Node-4de9c053-2e44-4c4f-bacb-51651d8c55a6",
@@ -319,8 +319,8 @@
 			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
-				"x": 1321.2897309153677,
-				"y": 25.644865457683863
+				"x": 1290.417581692082,
+				"y": 11.752398307205397
 			}
 		},
 		{
@@ -583,7 +583,7 @@
 						"oauth"
 					],
 					"asssignedVariableName": "authResult",
-					"exceptionVariableField": ""
+					"exceptionVariableField": "e"
 				},
 				"skake": false
 			},
@@ -641,7 +641,7 @@
 				],
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"positionAbsolute": {
 				"x": 1516.8651511227015,
 				"y": -38.39859101043618
@@ -1010,8 +1010,8 @@
 		}
 	],
 	"viewport": {
-		"x": -400.7710802315969,
-		"y": 217.92552602865788,
+		"x": -90.7710802315969,
+		"y": 191.92552602865794,
 		"zoom": 0.6478330956276549
 	}
 }
