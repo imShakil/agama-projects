@@ -1,5 +1,6 @@
 Flow org.gluu.hello.coop
      Basepath ""
+     Timeout 300 seconds
      Configs config
 Log "@info [org.gluu.hello.coop] flow initiated successfully " config
 oauth = config.hello
@@ -13,8 +14,8 @@ When success is true
      data = profile.data
      uid = Call org.gluu.UserOnboardHelper#exec data org.gluu.hello.coop.uidPrefix
      Log "@info return uid"
-     it_gaday = undefined
-     Finish it_gaday
+     it_dltlh = undefined
+     Finish it_dltlh
 Log "@error login failed"
-it_cefus = {success:false, error: "Make sure you have already agama-openid installed "}
-Finish it_cefus
+it_vkvgn = {success:false, error: "Make sure you have already agama-openid installed "}
+Finish it_vkvgn
