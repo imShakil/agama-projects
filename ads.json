@@ -52,6 +52,9 @@
             "jans"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "org.gluu.testAgama": {}
+        },
+        "name": "testAgama"
     }
 }
