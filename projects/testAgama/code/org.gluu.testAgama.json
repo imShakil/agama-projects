@@ -43,8 +43,8 @@
 			}
 		},
 		{
-			"width": 170,
-			"height": 123,
+			"width": 168,
+			"height": 120,
 			"id": "Agama-log-Node-dbc09fb4-609e-4a54-92d3-3da2e96ee67a",
 			"position": {
 				"x": 630,
@@ -72,13 +72,13 @@
 					"whenCondition": "WhenFalse",
 					"inRepeatBlock": false,
 					"inIterateBlock": false,
-					"logMessage": "\"config parsed successfully\" a, b",
+					"logMessage": "\"config parsed successfully\" a b",
 					"logLevel": "debug",
 					"nodeIcon": "octicon:log-16"
 				},
-				"skake": false
+				"skake": true
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 630,
@@ -174,7 +174,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 230,
