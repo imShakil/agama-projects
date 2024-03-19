@@ -1,2 +1,9 @@
 Flow org.gluu.testAgama
      Basepath ""
+     Configs conf
+Log "@debug testAgama: flow initiated successfully" conf
+a = conf.hello.a
+b = "conf.hello.b"
+Log "@debug config parsed successfully" a, b
+it_jvwvw = undefined
+Finish it_jvwvw
