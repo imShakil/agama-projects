@@ -481,7 +481,7 @@
 					"basepath": "",
 					"configParams": "{\n  \"org.gluu.hello.coop\": {\n    \"hello\": {\n      \"oauth\": {\n        \"clientId\": \"CLIENT_IDENTIFIER\",\n        \"clientSecret\": \"CLIENT_SECRET\",\n        \"authzEndpoint\": \"https://wallet.hello.coop/authorize\",\n        \"tokenEndpoint\": \"https://wallet.hello.coop/oauth/token\",\n        \"userInfoEndpoint\": \"https://wallet.hello.coop/oauth/userinfo\",\n        \"scopes\": [\n          \"openid\"\n        ],\n        \"clientCredsInRequestBody\": true,\n        \"custParamsAuthReq\": {},\n        \"custParamsTokenReq\": {},\n        \"redirectUri\": null\n      },\n      \"uidPrefix\": \"\"\n    }\n  }\n}",
 					"nodeIcon": "material-symbols:line-start-square",
-					"timeout": "",
+					"timeout": "300",
 					"inputs": "",
 					"configs": "config",
 					"flowname": "org.gluu.hello.coop"
