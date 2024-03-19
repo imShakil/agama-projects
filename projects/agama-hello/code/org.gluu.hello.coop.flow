@@ -15,8 +15,8 @@ When success is true
      data = profile.data
      uid = Call org.gluu.UserOnboardHelper#exec data uidPrefix
      Log "@info return uid"
-     it_kdckl = undefined
-     Finish it_kdckl
+     it_pqfna = undefined
+     Finish it_pqfna
 Log "@error login failed"
-it_dribe = {success:false, error: "Make sure you have already agama-openid installed "}
-Finish it_dribe
+it_czsxj = {success:false, error: "Make sure you have already agama-openid installed "}
+Finish it_czsxj
