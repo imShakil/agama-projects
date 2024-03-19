@@ -257,13 +257,13 @@
 					"hasComment": true,
 					"comment": "",
 					"flowfilename": "",
-					"returnVariable": "Make sure you have already agama-openid installed ",
-					"finishMode": "withFailure",
+					"returnVariable": "hello.uidPrefix",
+					"finishMode": "withVariable",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
 				},
 				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 1999.3612665951173,
@@ -497,7 +497,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
@@ -1010,8 +1010,8 @@
 		}
 	],
 	"viewport": {
-		"x": 61.2265625,
-		"y": 134.50607299804688,
+		"x": -31.7734375,
+		"y": 133.50607299804688,
 		"zoom": 0.5
 	}
 }
