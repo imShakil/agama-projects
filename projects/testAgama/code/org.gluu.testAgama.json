@@ -32,7 +32,8 @@
 					"flowfilename": "",
 					"returnVariable": "{ userId: \"as9233Qz\", property1: \"value1\"}",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -74,7 +75,8 @@
 					"logMessage": "\"config parsed successfully\" a, b",
 					"logLevel": "debug",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -120,13 +122,14 @@
 							"assignedVariableName": "a"
 						},
 						{
-							"variableTypeCheck": true,
+							"variableTypeCheck": false,
 							"assignmentExpression": "conf.hello.b",
 							"assignedVariableName": "b"
 						}
 					],
 					"nodeIcon": "material-symbols:equal"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -168,9 +171,10 @@
 					"logMessage": "\"testAgama: flow initiated successfully\" conf",
 					"logLevel": "debug",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 230,
@@ -212,7 +216,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
@@ -291,8 +295,8 @@
 		}
 	],
 	"viewport": {
-		"x": -66,
-		"y": 200,
+		"x": 10,
+		"y": 58,
 		"zoom": 1
 	}
 }
