@@ -3,7 +3,7 @@ Flow org.gluu.testAgama
      Configs conf
 Log "@debug testAgama: flow initiated successfully" conf
 a = conf.hello.a
-b = "conf.hello.b"
+b = conf.hello.b
 Log "@debug config parsed successfully" a, b
-it_jvwvw = undefined
-Finish it_jvwvw
+it_ioyru = undefined
+Finish it_ioyru
