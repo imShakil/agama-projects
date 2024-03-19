@@ -6,17 +6,17 @@ Log "@info [hello-agama] flow initiated successfully "
 oauth = conf.hello.oauth
 uidPrefix = conf.hello.uidPrefix
 Log "@debug [hello-agama] configuration parsed successfully" oauth uidPrefix
-authResult = Trigger org.gluu.inbound.oauth2.AuthzCodeWithUserInfo oauth
+authResult | e = Trigger org.gluu.inbound.oauth2.AuthzCodeWithUserInfo oauth
 Log "@debug retrieving data from login flow " authResult
 profile = authResult.data.profile
 success = authResult.success
 When success is true
      Log "@info login successfull"
      data = profile.data
-     uid = Call org.gluu.UserOnboardHelper#exec data org.gluu.hello.coop.uidPrefix
+     uid = Call org.gluu.UserOnboardHelper#exec data uidPrefix
      Log "@info return uid"
-     it_glnad = undefined
-     Finish it_glnad
+     it_kdckl = undefined
+     Finish it_kdckl
 Log "@error login failed"
-it_dojzu = {success:false, error: "Make sure you have already agama-openid installed "}
-Finish it_dojzu
+it_dribe = {success:false, error: "Make sure you have already agama-openid installed "}
+Finish it_dribe
