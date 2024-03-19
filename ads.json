@@ -53,7 +53,12 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "org.gluu.testAgama": {}
+            "org.gluu.testAgama": {
+                "hello": {
+                    "a": "abc",
+                    "b": "def"
+                }
+            }
         },
         "name": "testAgama"
     }
