@@ -30,7 +30,7 @@
                         "custParamsTokenReq": {},
                         "redirectUri": null
                     },
-                    "uidPrefix": ""
+                    "uidPrefix": "hello-"
                 }
             },
             "": {
