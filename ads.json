@@ -17,18 +17,7 @@
             "org.gluu.hello.coop": {
                 "hello": {
                     "oauth": {
-                        "clientId": "CLIENT_IDENTIFIER",
-                        "clientSecret": "CLIENT_SECRET",
-                        "authzEndpoint": "https://wallet.hello.coop/authorize",
-                        "tokenEndpoint": "https://wallet.hello.coop/oauth/token",
-                        "userInfoEndpoint": "https://wallet.hello.coop/oauth/userinfo",
-                        "scopes": [
-                            "openid"
-                        ],
-                        "clientCredsInRequestBody": true,
-                        "custParamsAuthReq": {},
-                        "custParamsTokenReq": {},
-                        "redirectUri": null
+                        "test": "test"
                     },
                     "uidPrefix": "hello-"
                 }
