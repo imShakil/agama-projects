@@ -33,11 +33,12 @@
 					"arguments": [],
 					"asssignedVariableName": "res",
 					"exceptionVariableField": ""
-				}
+				},
+				"skake": false
 			},
 			"width": 170,
 			"height": 123,
-			"selected": true,
+			"selected": false,
 			"positionAbsolute": {
 				"x": 459.33333333333326,
 				"y": -203.33333333333331
@@ -72,14 +73,15 @@
 					"whenCondition": "WhenFalse",
 					"inRepeatBlock": false,
 					"inIterateBlock": false,
-					"logMessage": "",
-					"logLevel": "",
+					"logMessage": "\"tirgger to agama-pw for login\"",
+					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": true
 			},
-			"width": 170,
-			"height": 123,
-			"selected": false,
+			"width": 168,
+			"height": 120,
+			"selected": true,
 			"positionAbsolute": {
 				"x": 246,
 				"y": -200.66666666666669
