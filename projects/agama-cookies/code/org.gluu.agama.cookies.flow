@@ -1,2 +1,4 @@
 Flow org.gluu.agama.cookies
      Basepath ""
+Log "@ " __________
+res = Trigger org.gluu.agama.pw.main 
