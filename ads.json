@@ -57,5 +57,23 @@
             }
         },
         "name": "testAgama"
+    },
+    "agama-cookies": {
+        "projectName": "agama-cookies",
+        "description": "remember me for days",
+        "type": "community",
+        "author": "imShakil",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/imShakil/agama-projects",
+        "githubUri": "https://github.com/imShakil/agama-projects",
+        "license": "apache-2.0",
+        "lastUpdated": "1719714649394",
+        "tags": [
+            "authentication",
+            "authorization",
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
     }
 }
