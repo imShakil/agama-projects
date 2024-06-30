@@ -74,6 +74,9 @@
             "jans"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "org.gluu.agama.cookies": {}
+        },
+        "name": "agama-cookies"
     }
 }
