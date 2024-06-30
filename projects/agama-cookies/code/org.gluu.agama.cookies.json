@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "Agama-start-Flow-fe3c57f2-7e35-4ecd-be90-c374b075e3b9",
+      "type": "start",
+      "sourcePosition": "right",
+      "data": {
+        "id": "Agama-start-Flow-fe3c57f2-7e35-4ecd-be90-c374b075e3b9",
+        "type": "Agama-start-Flow",
+        "position": {
+          "x": 30,
+          "y": 30
+        },
+        "inRepeatBlock": false,
+        "agamaData": {
+          "id": "Agama-start-Flow-fe3c57f2-7e35-4ecd-be90-c374b075e3b9",
+          "type": "Agama-start-Flow",
+          "flowname": "org.gluu.agama.cookies",
+          "displayName": "agama cookies",
+          "isTopLevelFlow": true,
+          "basepath": "",
+          "configParams": "{}",
+          "nodeIcon": "material-symbols:line-start-square",
+          "timeout": "",
+          "inputs": "",
+          "configs": ""
+        }
+      },
+      "position": {
+        "x": 30,
+        "y": 30
+      }
+    }
+  ]
+}
