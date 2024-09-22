@@ -1,39 +1,4 @@
 {
-    "agama-hello": {
-        "projectName": "agama-hello",
-        "description": "hello.coop social login",
-        "type": "community",
-        "author": "imShakil",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/imShakil/agama-projects",
-        "githubUri": "https://github.com/imShakil/agama-projects",
-        "license": "apache-2.0",
-        "lastUpdated": "1710803380703",
-        "tags": [
-            "openid-connect"
-        ],
-        "noDirectLaunch": [],
-        "configs": {
-            "org.gluu.hello.coop": {
-                "hello": {
-                    "oauth": {
-                        "test": "test"
-                    },
-                    "uidPrefix": "hello-"
-                }
-            },
-            "": {
-                "hello": {
-                    "hello": {
-                        "a": "abcedef",
-                        "bced": "bdfsdf"
-                    },
-                    "uidPrefix": "hello-"
-                }
-            }
-        },
-        "name": "agama-hello"
-    },
     "testAgama": {
         "projectName": "testAgama",
         "description": "test agama",
