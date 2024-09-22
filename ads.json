@@ -1,28 +1,4 @@
 {
-    "testAgama": {
-        "projectName": "testAgama",
-        "description": "test agama",
-        "type": "community",
-        "author": "imShakil",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/imShakil/agama-projects",
-        "githubUri": "https://github.com/imShakil/agama-projects",
-        "license": "apache-2.0",
-        "lastUpdated": "1710816027219",
-        "tags": [
-            "jans"
-        ],
-        "noDirectLaunch": [],
-        "configs": {
-            "org.gluu.testAgama": {
-                "hello": {
-                    "a": "abc",
-                    "b": "def"
-                }
-            }
-        },
-        "name": "testAgama"
-    },
     "agama-cookies": {
         "projectName": "agama-cookies",
         "description": "remember me for days",
