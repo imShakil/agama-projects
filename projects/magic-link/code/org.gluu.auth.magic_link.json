@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "startNode-19bc100c-7e91-47e9-bc4e-5faaea15dc73",
+      "type": "startNode",
+      "sourcePosition": "right",
+      "position": {
+        "x": 30,
+        "y": 30
+      },
+      "data": {
+        "id": "startNode-19bc100c-7e91-47e9-bc4e-5faaea15dc73",
+        "type": "startNode",
+        "position": {
+          "x": 30,
+          "y": 40
+        },
+        "agamaData": {
+          "isTopLevelFlow": true,
+          "basepath": "",
+          "configParams": "{}",
+          "nodeIcon": "material-symbols:line-start-square",
+          "timeout": "",
+          "inputs": "",
+          "configs": "",
+          "flowname": "org.gluu.auth.magic_link",
+          "displayName": "Magic Link",
+          "creationDate": "25/09/2024",
+          "hasComment": true,
+          "comment": ""
+        }
+      }
+    }
+  ]
+}
