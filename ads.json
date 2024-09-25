@@ -37,6 +37,9 @@
             "community"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "org.gluu.auth.magic_link": {}
+        },
+        "name": "magic-link"
     }
 }
