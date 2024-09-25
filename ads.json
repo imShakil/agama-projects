@@ -19,5 +19,24 @@
             "org.gluu.agama.cookies": {}
         },
         "name": "agama-cookies"
+    },
+    "magic-link": {
+        "projectName": "magic-link",
+        "description": "link base authentication",
+        "type": "community",
+        "author": "imShakil",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/imShakil/agama-projects",
+        "githubUri": "https://github.com/imShakil/agama-projects",
+        "license": "apache-2.0",
+        "lastUpdated": "1727242138279",
+        "tags": [
+            "openid-connect",
+            "authentication",
+            "jans",
+            "community"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
     }
 }
