@@ -38,7 +38,8 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "org.gluu.auth.magic_link": {}
+            "org.gluu.auth.magic_link": {},
+            "": {}
         },
         "name": "magic-link"
     }
